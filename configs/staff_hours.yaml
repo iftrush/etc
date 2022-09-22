@@ -46,6 +46,8 @@ staff-hours:
       cancelled: false
     - time: ['15:00', '16:00']
       staff: ["adarshiyer"]
+    - time: ['23:00', '24:00']
+      staff: ["kanjencheng"]
   Saturday:
   Sunday:
 
